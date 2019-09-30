@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: lightgray;
+}
+
+table {
+    margin: auto;
+    margin-top: 50px;
+    border: black 1px solid;
+    border-collapse: collapse;
+    table-layout: fixed;
+    text-align: center;
+    width: 550px;
+    height: 550px;
+}
+
+td {
+    border: black 1px solid;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.spec {
+    background: black;
+    color: white;
+    border-bottom: white 1px solid;
+}
+
+#moreSpec {
+    background: black;
+    color: white;
+}
+
+.other {
+    background: rgba(160, 178, 255, 0.5);
+}
+
+.other:hover {
+    cursor: pointer;
+    background: rgba(160, 255, 255, 0.5);
+}
+
+.comp {
+    text-decoration: underline;
+}
