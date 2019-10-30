@@ -15,6 +15,3 @@
 
 ## Home page
 ![home Page Image](homePage.png)
-
-## Page with results
-![results Page Image](infoPage.png)
