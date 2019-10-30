@@ -14,4 +14,4 @@
 ### https://armjim14.github.io/attemptingCheckers/
 
 ## Home page
-![home Page Image](homepage.png)
+![home Page Image](Homepage.png)
